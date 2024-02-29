@@ -3,8 +3,8 @@
 
 Programs related to the core java topics.
 
-| Topic                                        | Total Solved Questions | 
-|----------------------------------------------|------------------------|
-| Arrays                                       | 6                      |
+| Topic                                        | Total Solved Questions | Last Updated |
+|----------------------------------------------|------------------------| -------------|
+| Arrays                                       | 8                      | 29th Feb
 
 
